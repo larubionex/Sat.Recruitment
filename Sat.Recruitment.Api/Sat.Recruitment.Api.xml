@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sat.Recruitment.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Sat.Recruitment.Api.Controllers.UsersController.CreateUser(Sat.Recruitment.Model.Users.UsersModel)">
+            <summary>
+            Description
+            </summary>
+        </member>
+    </members>
+</doc>
